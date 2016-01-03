@@ -52,7 +52,8 @@ gulp convert
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Cross platform .NET development!
-OmniSharp is a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice
+OmniSharp is a family of Open Source projects, each with one goal:
+To enable a great .NET experience in YOUR editor of choice
 ```
 
 ## Author

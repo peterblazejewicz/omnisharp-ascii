@@ -6,7 +6,7 @@ var path = require("path");
 var ImageToAscii = require("image-to-ascii");
 var green = require("chalk").bold.green;
 var COPY = "Cross platform .NET development!";
-var DESCRIPTION = "OmniSharp is a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice";
+var DESCRIPTION = "OmniSharp is a family of Open Source projects, each with one goal:\nTo enable a great .NET experience in YOUR editor of choice";
 
 gulp.task("clean:assets", function () {
   return del([
