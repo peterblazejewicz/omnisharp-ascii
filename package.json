@@ -1,0 +1,23 @@
+{
+  "name": "omnisharp-ascii",
+  "version": "1.0.0",
+  "description": "ASCII image generator for OmniSharp logo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OmniSharp",
+    "ASCII",
+    "Gulp"
+  ],
+  "author": "@peterblazejewicz",
+  "license": "Unlicense",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-remote-src": "^0.4.0",
+    "image-to-ascii": "^2.3.0"
+  }
+}
